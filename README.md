@@ -66,6 +66,8 @@ Weights & Biases was used for:
 * Attention Heatmaps
 * Connectivity Visualization
 
-## Author
+## Team Members
 
 Sai Srinivasa Siva Prasad
+Likhita Paul
+
