@@ -62,9 +62,7 @@ Weights & Biases was used for:
 ## Repository Contents
 
 * assignment3.ipynb
-* Assignment3_Report.pdf
-* Attention Heatmaps
-* Connectivity Visualization
+* README.md
 
 ## Team Members
 
