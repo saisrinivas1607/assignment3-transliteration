@@ -66,6 +66,6 @@ Weights & Biases was used for:
 
 ## Team Members
 
-* Sai Srinivasa Siva Prasad
-* Likhita 
+* Sai Srinivas N
+* Likhita U
 
